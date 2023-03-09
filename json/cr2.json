@@ -50,7 +50,7 @@
   },{
      "title": "Take the dog for a walk",
      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, porro.",
-     "image": "../images/pic.jpg",
+     "image": "./images/pic.jpg",
      "level": 0,
      "Date": "27.01.2022"
   }
